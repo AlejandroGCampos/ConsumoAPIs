@@ -1,0 +1,32 @@
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\obj\Debug\Consumo de APIs.csproj.AssemblyReference.cache
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\obj\Debug\Consumo_de_APIs.Properties.Resources.resources
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\obj\Debug\Consumo de APIs.csproj.GenerateResource.cache
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\obj\Debug\Consumo de APIs.csproj.CoreCompileInputs.cache
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\obj\Debug\Consumo_de_APIs.FormAPI.resources
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\Consumo de APIs.exe.config
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\Consumo de APIs.exe
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\Consumo de APIs.pdb
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\System.Buffers.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\System.IO.Pipelines.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\System.Memory.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\System.Text.Json.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\System.ValueTuple.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\System.Buffers.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\System.IO.Pipelines.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\System.Memory.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\System.Text.Json.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\obj\Debug\Consumo .CB383654.Up2Date
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\obj\Debug\Consumo de APIs.exe
+C:\Users\al3j4\Documents\Tareas\Progra 1\Consumo de APIs\Consumo de APIs\obj\Debug\Consumo de APIs.pdb
